@@ -16,14 +16,21 @@
  	text-align: center;
  }
 
- .align-left {
+ .left {
  	@include float-left;
  }
 
- .align-right {
+ .right {
  	@include float-right;
  }
 
  .clearfix {
  	@include clearfix;
  }
+
+.hide {
+  display: none; }
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
