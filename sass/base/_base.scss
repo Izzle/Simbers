@@ -3,3 +3,32 @@
  * Base styles
  * ------------------------------------------------------------------------------
  */
+
+html, body {
+  height: 100%; }
+
+body {
+  background: white;
+  color: #222222;
+  font-family: $font1;
+  font-weight: normal;
+  font-style: normal;
+  line-height: $base-line-height;
+  position: relative;
+  cursor: default; }
+
+a:hover {
+  cursor: pointer; }
+
+img {
+  max-width: 100%;
+  height: auto; 
+  display: inline-block;
+  vertical-align: middle; }
+
+textarea {
+  height: auto;
+  min-height: 50px; }
+
+select {
+  width: 100%; }
