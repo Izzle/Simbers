@@ -11,6 +11,8 @@
  * https://tutsplus.com/authors/adi-purdila
  * ------------------------------------------------------------------------------
  */
+ /* Reset */
+ @import "base/reset";
 
  /* Compass */
  @import "compass";
@@ -24,7 +26,6 @@
  // @import "bootstrap/bootstrap";
 
  /* Base */
- @import "base/reset";
  @import "base/base";
  @import "base/ie8";
 

@@ -53,10 +53,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-/* Apply a natural box layout model to all elements */
-*,
-*:before,
-*:after {
-	@include box-sizing(border-box);
-}
