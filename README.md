@@ -1,0 +1,1 @@
+Simbers is a lightweight front-end framework that can be used as a foundation for any project, created by [Ron Martin](http://twitter.com/ron_izzle).  It utilizes the grid structure of the Foundation framework to keep websites responsive.  Additionally, all the basic files and folder structures have been included to speed up the development process.  
